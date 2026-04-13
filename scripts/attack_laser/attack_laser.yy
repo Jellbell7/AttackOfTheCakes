@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"attack_laser",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"attack_laser",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
